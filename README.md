@@ -2,6 +2,10 @@
 <h3 align="center">A Girl with Big Dreams!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=astroakanksha24&label=Profile%20views&color=0e75b6&style=flat" alt="astroakanksha24" /> </p>
+### About Me:
+
+      + I am a Second-Year CSE Student at Walchand College of Engineering Sangli. 🏫
+      + I am currently exploring various tech fields(if you have any suggestions ,please suggest).🌐
 
 - 📫 How to reach me **akankshachaudhari2503@gmail.com**
 
