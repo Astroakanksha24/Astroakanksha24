@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Akanksha Chaudhari</h1>
 <h5 align="center">
-I’m a 3rd-year student pursuing a Bachelors’s in Computer science studies, from WCE Sangli. I am a Data Science enthusiast,and I am currently learning flutter . 
+I’m a final year student pursuing a Bachelors’s in Computer science studies, from WCE Sangli.  I am currently learning flutter . 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Astroakanksha24&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22Astroakanksha24%22" /> </p>
 <p>
